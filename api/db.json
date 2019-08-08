@@ -55,58 +55,51 @@
       "id": 28
     },
     {
-      "description": "Read Harry Potter",
+      "description": "Interview Ben",
       "duration": "1",
-      "category": "Running",
+      "category": "Coding",
       "userId": "115633039659219454272",
       "id": 29
     },
     {
-      "description": "Run 15 miles",
-      "duration": "2",
-      "category": "Running",
+      "description": "Hire Ben",
+      "duration": "1",
+      "category": "Coding",
       "userId": "115633039659219454272",
       "id": 30
     },
     {
-      "description": "Lifting",
-      "duration": "1",
-      "category": "Lifting",
+      "description": "Run 20 Miles",
+      "duration": "2",
+      "category": "Running",
       "userId": "115633039659219454272",
       "id": 31
     },
     {
-      "description": "Worked on project",
+      "description": "Lacrosse Practice",
+      "category": "Running",
       "duration": "2",
-      "category": "Coding",
       "userId": "115633039659219454272",
       "id": 32
+    },
+    {
+      "description": "Lifting ",
+      "duration": "1",
+      "category": "Lifting",
+      "userId": "115633039659219454272",
+      "id": 33
+    },
+    {
+      "description": "Read Harry Potter",
+      "duration": "2",
+      "category": "Reading",
+      "userId": "115633039659219454272",
+      "id": 35
     },
     {
       "description": "Watch Netflix",
       "duration": "2",
       "category": "Relaxing",
-      "userId": "115633039659219454272",
-      "id": 33
-    },
-    {
-      "category": "Reading",
-      "description": "Read more",
-      "duration": "1",
-      "userId": "115633039659219454272",
-      "id": 34
-    },
-    {
-      "description": "lifting",
-      "duration": "1",
-      "category": "Lifting",
-      "userId": "115633039659219454272",
-      "id": 35
-    },
-    {
-      "category": "Relaxing",
-      "description": "watch parks and rec",
-      "duration": "2",
       "userId": "115633039659219454272",
       "id": 36
     }
